@@ -557,6 +557,17 @@ section {
   color: #37517e;
 }
 
+.section-title.aaa h2 {
+  font-size: 22px;
+  font-weight: bold;
+  
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #37517e;
+}
+
+
 .section-title h2::before {
   content: '';
   position: absolute;
